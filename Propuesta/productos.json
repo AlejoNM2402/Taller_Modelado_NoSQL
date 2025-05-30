@@ -1,0 +1,110 @@
+[
+     {
+    "id": "producto001",
+    "nombre": "pizza de carnes",
+    "precio_us": 12,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente001",
+            "cantidad_gr": 500
+        },
+        {
+            "ingrediente_id": "ingrediente002",
+            "cantidad_gr": 300
+        },
+        {
+            "ingrediente_id": "ingrediente003",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente004",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente005",
+            "cantidad_gr": 250
+        },
+        {
+            "ingrediente_id": "ingrediente006",
+            "cantidad_gr": 100
+        }
+    ],
+    "tipo": "elaborado"
+},
+
+    {
+    "id": "producto002",
+    "nombre": "postre de mora",
+    "precio_us": 10,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente007",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente008",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente009",
+            "cantidad_gr": 100
+        },
+        {
+            "ingrediente_id": "ingrediente010",
+            "cantidad_gr": 50
+        }
+    ],
+    "tipo":"elaborado"
+    
+},
+
+    {
+    "id": "producto003",
+    "nombre": "coca-cola",
+    "precio_us": 2,
+    "ingredientes": [],
+    "tipo":"no elaborado"
+    
+},
+
+    {
+    "id": "producto004",
+    "nombre": "panzerotti ",
+    "precio_us": 9.5,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente001",
+            "cantidad_gr": 300
+        },
+        {
+            "ingrediente_id": "ingrediente002",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente005",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente006",
+            "cantidad_gr": 100
+        },
+        {
+            "ingrediente_id": "ingrediente007",
+            "cantidad_gr": 50
+        }
+    
+],
+    "tipo":"elaborado"
+    
+},
+
+    {
+    "id": "producto005",
+    "nombre": "jugo hit ",
+    "precio_us": 1.5,
+    "ingredientes": [],
+    "tipo":"no elaborado"
+    
+}
+
+]

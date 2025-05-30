@@ -1,0 +1,64 @@
+[ 
+
+
+
+    {
+        "id": "pedido001",
+        "cliente_id": "cliente001",
+        "fecha": "2023-10-01",
+        "prosuctos":[],
+        "combos": [
+            {
+                "combo_id": "combo001",
+                "cantidad": 2
+            }
+        ],
+        "adiciones":[
+            {
+                "adicion_id": "adicion001",
+                "cantidad": 1
+            }
+        ],
+        "total_us": 27.5,
+        "tipo_pedido": "para comer en el lugar"
+    },
+
+    {
+        "id": "pedido002",
+        "cliente_id": "cliente003",
+        "fecha": "2024-10-11",
+        "productos":[
+            {
+                "producto_id": "producto002",
+                "cantidad": 1
+            },
+            {
+                "producto_id": "producto005",
+                "cantidad": 2
+            }
+        ],
+        "combos": [
+            {
+                "combo_id": "combo002",
+                "cantidad": 1
+            }
+        ],
+        "adiciones":[
+            {
+                "adicion_id": "adicion001",
+                "cantidad": 1
+            },
+            {
+                "adicion_id": "adicion002",
+                "cantidad": 2
+            }
+        ],
+        "total_us": 50,
+        "tipo_pedido": "para recoger"
+    }
+
+
+]
+
+
+

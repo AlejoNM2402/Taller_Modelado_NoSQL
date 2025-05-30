@@ -1,0 +1,31 @@
+[
+     {
+        "id": "cliente001",
+        "nombre": "Juan Pandera",
+        "telefono": "3001234567",
+        "direccion": "Calle 123 #45-67, Bogotá",
+        "email": "juanp@yahoo.com"
+    },
+    {
+        "id": "cliente002",
+        "nombre": "Maria Lopez",
+        "telefono": "3007654321",
+        "direccion": "Carrera 89 #12-34, Medellín",
+        "email": "maripez12@hotmail.com"
+    },
+    {
+        "id": "cliente003",
+        "nombre": "Carlos Perez",
+        "telefono": "3009876543",
+        "direccion": "Avenida 456 #78-90, Cali",
+        "email": "caliche23@gmail.com"
+    },
+    {
+        "id": "cliente004",
+        "nombre": "Ana Torres",
+        "telefono": "3004567890",
+        "direccion": "Calle 321 #11-22, Barranquilla",
+        "email": "anantorres0767@yahoo.com"
+    }
+
+]

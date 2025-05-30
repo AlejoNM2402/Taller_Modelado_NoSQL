@@ -1,0 +1,52 @@
+[
+     {
+        "id": "ingrediente001",
+        "nombre":"carne de res",
+        "cantidad_gr": 2000
+    },
+    {
+        "id": "ingrediente002",
+        "nombre":"carne de cerdo",
+        "cantidad_gr": 1758
+    },
+    {
+        "id": "ingrediente003",
+        "nombre":"pollo",
+        "cantidad_gr": 1800
+    },
+    {
+        "id": "ingrediente004",
+        "nombre":"tocineta",
+        "cantidad_gr": 750
+    },
+    {
+        "id": "ingrediente005",
+        "nombre":"queso doble crema",
+        "cantidad_gr": 3000
+    },
+    {
+        "id": "ingrediente006",
+        "nombre":"salsa de tomate",
+        "cantidad_gr": 1500
+    },
+    {
+        "id": "ingrediente007",
+        "nombre":"crema de leche",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente008",
+        "nombre":"leche condensada",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente009",
+        "nombre":"dulce de mora",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente010",
+        "nombre":"moras frescas",
+        "cantidad_gr": 700
+    }
+]
