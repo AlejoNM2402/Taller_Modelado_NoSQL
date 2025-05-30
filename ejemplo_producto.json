@@ -1,0 +1,26 @@
+[
+    {
+    "id": "producto006",
+    "nombre": "pizza de pollo-queso",
+    "precio_us": 12,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente003",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente004",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente005",
+            "cantidad_gr": 250
+        },
+        {
+            "ingrediente_id": "ingrediente006",
+            "cantidad_gr": 100
+        }
+    ],
+    "tipo": "elaborado"
+}
+]

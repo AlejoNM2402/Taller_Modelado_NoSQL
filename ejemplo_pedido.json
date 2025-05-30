@@ -1,0 +1,31 @@
+[
+        {
+        "id": "pedido003",
+        "cliente_id": "cliente002",
+        "feccha": "2025-02-24",
+        "productos":[
+            {
+                "producto_id": "producto001",
+                "cantidad": 1
+            },
+            {
+                "producto_id": "producto004",
+                "cantidad": 1
+            }
+        ],
+        "combos": [
+            {
+                "combo_id": "combo003",
+                "cantidad": 1
+            }
+        ],
+        "adiciones":[
+            {
+                "adicion_id": "adicion003",
+                "cantidad": 1
+            }
+        ],
+        "total_us": 25,
+        "tipo_pedido": "para llevar"
+    }
+]

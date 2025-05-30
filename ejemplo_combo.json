@@ -1,0 +1,10 @@
+[
+        {
+        "id": "combo005",
+        "nombre": "combo especial",
+        "descripcion": "Incluye una pizza de pollo-queso y un jugo hit",
+        "precio_us": 14,
+        "productos": ["producto006", "producto005"],
+        "tipo": "combo"
+    }
+]

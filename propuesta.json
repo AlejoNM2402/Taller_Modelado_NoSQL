@@ -1,0 +1,323 @@
+[ 
+        {
+        "id": "ingrediente001",
+        "nombre":"carne de res",
+        "cantidad_gr": 2000
+    },
+    {
+        "id": "ingrediente002",
+        "nombre":"carne de cerdo",
+        "cantidad_gr": 1758
+    },
+    {
+        "id": "ingrediente003",
+        "nombre":"pollo",
+        "cantidad_gr": 1800
+    },
+    {
+        "id": "ingrediente004",
+        "nombre":"tocineta",
+        "cantidad_gr": 750
+    },
+    {
+        "id": "ingrediente005",
+        "nombre":"queso doble crema",
+        "cantidad_gr": 3000
+    },
+    {
+        "id": "ingrediente006",
+        "nombre":"salsa de tomate",
+        "cantidad_gr": 1500
+    },
+    {
+        "id": "ingrediente007",
+        "nombre":"crema de leche",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente008",
+        "nombre":"leche condensada",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente009",
+        "nombre":"dulce de mora",
+        "cantidad_gr": 500
+    },
+    {
+        "id": "ingrediente010",
+        "nombre":"moras frescas",
+        "cantidad_gr": 700
+    },
+
+
+
+    {
+    "id": "producto001",
+    "nombre": "pizza de carnes",
+    "precio_us": 12,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente001",
+            "cantidad_gr": 500
+        },
+        {
+            "ingrediente_id": "ingrediente002",
+            "cantidad_gr": 300
+        },
+        {
+            "ingrediente_id": "ingrediente003",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente004",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente005",
+            "cantidad_gr": 250
+        },
+        {
+            "ingrediente_id": "ingrediente006",
+            "cantidad_gr": 100
+        }
+    ],
+    "tipo": "elaborado"
+},
+
+    {
+    "id": "producto002",
+    "nombre": "postre de mora",
+    "precio_us": 10,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente007",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente008",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente009",
+            "cantidad_gr": 100
+        },
+        {
+            "ingrediente_id": "ingrediente010",
+            "cantidad_gr": 50
+        }
+    ],
+    "tipo":"elaborado"
+    
+},
+
+    {
+    "id": "producto003",
+    "nombre": "coca-cola",
+    "precio_us": 2,
+    "ingredientes": [],
+    "tipo":"no elaborado"
+    
+},
+
+    {
+    "id": "producto004",
+    "nombre": "panzerotti ",
+    "precio_us": 9.5,
+    "ingredientes": [
+        {
+            "ingrediente_id": "ingrediente001",
+            "cantidad_gr": 300
+        },
+        {
+            "ingrediente_id": "ingrediente002",
+            "cantidad_gr": 200
+        },
+        {
+            "ingrediente_id": "ingrediente005",
+            "cantidad_gr": 150
+        },
+        {
+            "ingrediente_id": "ingrediente006",
+            "cantidad_gr": 100
+        },
+        {
+            "ingrediente_id": "ingrediente007",
+            "cantidad_gr": 50
+        }
+    
+],
+    "tipo":"elaborado"
+    
+},
+
+    {
+    "id": "producto005",
+    "nombre": "jugo hit ",
+    "precio_us": 1.5,
+    "ingredientes": [],
+    "tipo":"no elaborado"
+    
+},
+
+
+
+
+{
+        "id": "combo001",
+        "nombre": "pizza + bebida",
+        "precio_us": 13,
+        "productos": ["producto001", "producto003"],
+        "descripcion": "Incluye una pizza de carnes y una bebida Coca-Cola",
+        "tipo": "combo"
+    },
+    {
+        "id": "combo002",
+        "nombre": "Italian Full",
+        "descripcion": "Incluye una pizza de carnes y un panzerotti",
+        "precio_us": 13,
+        "productos": ["producto001", "producto004"],
+        "tipo": "combo"
+    },
+        {
+        "id": "combo003",
+        "nombre": "panzerotti + jugo",
+        "descripcion": "Incluye un panzerotti y un jugo hit",        
+        "precio_us": 13,
+        "productos": ["producto004", "producto005"],
+        "tipo": "combo"
+    },
+            {
+        "id": "combo004",
+        "nombre": "full",
+        "descripcion": "Incluye una coca-cola, un pazerotti y un postre de mora",        
+        "precio_us": 13,
+        "productos": ["producto002", "producto003", "producto004"],
+        "tipo": "combo"
+    },
+
+
+
+
+
+
+    {
+        "id": "cliente001",
+        "nombre": "Juan Pandera",
+        "telefono": "3001234567",
+        "direccion": "Calle 123 #45-67, Bogotá",
+        "email": "juanp@yahoo.com"
+    },
+    {
+        "id": "cliente002",
+        "nombre": "Maria Lopez",
+        "telefono": "3007654321",
+        "direccion": "Carrera 89 #12-34, Medellín",
+        "email": "maripez12@hotmail.com"
+    },
+    {
+        "id": "cliente003",
+        "nombre": "Carlos Perez",
+        "telefono": "3009876543",
+        "direccion": "Avenida 456 #78-90, Cali",
+        "email": "caliche23@gmail.com"
+    },
+    {
+        "id": "cliente004",
+        "nombre": "Ana Torres",
+        "telefono": "3004567890",
+        "direccion": "Calle 321 #11-22, Barranquilla",
+        "email": "anantorres0767@yahoo.com"
+    },
+
+
+
+    {
+        "id": "adicion001",
+        "nombre": "queso extra",
+        "precio_us": 1.5
+    },
+    {
+        "id": "adicion002",
+        "nombre": "salsa BBQ",
+        "precio_us": 1.0
+    },
+    {
+        "id": "adicion003",
+        "nombre": "champiñones",
+        "precio_us": 1.2
+    },
+    {
+        "id": "adicion004",
+        "nombre": "papas fritas",
+        "precio_us": 1.5
+    },
+    {
+        "id": "adicion005",
+        "nombre": "piña",
+        "precio_us": 0.5
+    },
+
+
+
+
+    {
+        "id": "pedido001",
+        "cliente_id": "cliente001",
+        "feccha": "2023-10-01",
+        "prosuctos":[],
+        "combos": [
+            {
+                "combo_id": "combo001",
+                "cantidad": 2
+            }
+        ],
+        "adiciones":[
+            {
+                "adicion_id": "adicion001",
+                "cantidad": 1
+            }
+        ],
+        "total_us": 27.5,
+        "tipo_pedido": "para comer en el lugar"
+    },
+
+    {
+        "id": "pedido002",
+        "cliente_id": "cliente003",
+        "feccha": "2024-10-11",
+        "productos":[
+            {
+                "producto_id": "producto002",
+                "cantidad": 1
+            },
+            {
+                "producto_id": "producto005",
+                "cantidad": 2
+            }
+        ],
+        "combos": [
+            {
+                "combo_id": "combo002",
+                "cantidad": 1
+            }
+        ],
+        "adiciones":[
+            {
+                "adicion_id": "adicion001",
+                "cantidad": 1
+            },
+            {
+                "adicion_id": "adicion002",
+                "cantidad": 2
+            }
+        ],
+        "total_us": 50,
+        "tipo_pedido": "para recoger"
+    }
+
+
+]
+
+
+
