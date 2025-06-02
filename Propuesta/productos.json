@@ -1,6 +1,6 @@
 [
      {
-    "id": "producto001",
+    "_id": "producto001",
     "nombre": "pizza de carnes",
     "precio_us": 12,
     "ingredientes": [
@@ -33,7 +33,7 @@
 },
 
     {
-    "id": "producto002",
+    "_id": "producto002",
     "nombre": "postre de mora",
     "precio_us": 10,
     "ingredientes": [
@@ -59,7 +59,7 @@
 },
 
     {
-    "id": "producto003",
+    "_id": "producto003",
     "nombre": "coca-cola",
     "precio_us": 2,
     "ingredientes": [],
@@ -68,7 +68,7 @@
 },
 
     {
-    "id": "producto004",
+    "_id": "producto004",
     "nombre": "panzerotti ",
     "precio_us": 9.5,
     "ingredientes": [
@@ -99,7 +99,7 @@
 },
 
     {
-    "id": "producto005",
+    "_id": "producto005",
     "nombre": "jugo hit ",
     "precio_us": 1.5,
     "ingredientes": [],

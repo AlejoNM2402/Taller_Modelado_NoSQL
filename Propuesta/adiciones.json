@@ -1,26 +1,26 @@
 [
     {
-        "id": "adicion001",
+        "_id": "adicion001",
         "nombre": "queso extra",
         "precio_us": 1.5
     },
     {
-        "id": "adicion002",
+        "_id": "adicion002",
         "nombre": "salsa BBQ",
         "precio_us": 1.0
     },
     {
-        "id": "adicion003",
+        "_id": "adicion003",
         "nombre": "champiñones",
         "precio_us": 1.2
     },
     {
-        "id": "adicion004",
+        "_id": "adicion004",
         "nombre": "papas fritas",
         "precio_us": 1.5
     },
     {
-        "id": "adicion005",
+        "_id": "adicion005",
         "nombre": "piña",
         "precio_us": 0.5
     }

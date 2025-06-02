@@ -3,7 +3,7 @@
 
 
     {
-        "id": "pedido001",
+        "_id": "pedido001",
         "cliente_id": "cliente001",
         "fecha": "2023-10-01",
         "productos":[],
@@ -24,7 +24,7 @@
     },
 
     {
-        "id": "pedido002",
+        "_id": "pedido002",
         "cliente_id": "cliente003",
         "fecha": "2024-10-11",
         "productos":[

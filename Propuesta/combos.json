@@ -1,6 +1,6 @@
 [
     {
-        "id": "combo001",
+        "_id": "combo001",
         "nombre": "pizza + bebida",
         "precio_us": 13,
         "productos": ["producto001", "producto003"],
@@ -8,7 +8,7 @@
         "tipo": "combo"
     },
     {
-        "id": "combo002",
+        "_id": "combo002",
         "nombre": "Italian Full",
         "descripcion": "Incluye una pizza de carnes y un panzerotti",
         "precio_us": 13,
@@ -16,7 +16,7 @@
         "tipo": "combo"
     },
         {
-        "id": "combo003",
+        "_id": "combo003",
         "nombre": "panzerotti + jugo",
         "descripcion": "Incluye un panzerotti y un jugo hit",        
         "precio_us": 13,
@@ -24,7 +24,7 @@
         "tipo": "combo"
     },
             {
-        "id": "combo004",
+        "_id": "combo004",
         "nombre": "full",
         "descripcion": "Incluye una coca-cola, un pazerotti y un postre de mora",        
         "precio_us": 13,
