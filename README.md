@@ -36,3 +36,12 @@ Un documento en MongoDB es una unidad de datos parecida a un objeto Json que con
 
 ### Colección📒:
 Es un conjunto de documentos que de documentos relacionados entre si mas o menos como si fuera una tabla de una base de datos relacional, pero en formato tipo Json.
+
+
+## Reflexionar
+### ¿Qué fue lo más difícil de imaginar sin tablas?
+Lo mas dificil de imaginar sin tablas fue la organizacion del documento, ya que teniamos que ponerlo en listas objetos.
+### ¿Qué les gustó del enfoque con documentos?
+Es mas facil, ya que no tienes que definir las relaciones, y es mas organizado a mi gusto.
+### ¿Qué dudas les surgieron al pensar en este nuevo tipo de base de datos?
+
